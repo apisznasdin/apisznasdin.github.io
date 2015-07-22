@@ -1,17 +1,17 @@
 # your informations
 author:
-  name: Bernardo Pacheco
-  description: Software engineer
-  picture: /assets/images/avatar.jpg
+  name: Hafidz Nasruddin
+  description: System administrator
+  picture: /assets/images/avatar.png
 
 # site description
-description: Thoughts and writings about software engineering by Bernardo Pacheco.
+description: Thoughts and writings by Hafidz Nasruddin .
 
 # site url
-url: http://bernardopacheco.net
+url: http://hafidz.me
 
 # site title
-title: Bernardo Pacheco
+title: Hafidz Nasruddin
 
 # site version
 version: 1.0.0
@@ -20,12 +20,12 @@ version: 1.0.0
 paginate: 10
 
 # your github username
-github_username: bernardopacheco
+github_username: apisznasdin
 
 # set true to include or false to exclude share option
 share:
   twitter: true
-  facebook: true
+  facebook: false
   google_plus: true
   linkedin: true
   disqus: true
@@ -34,12 +34,12 @@ share:
 facebook_app_id: 730635297031262
 
 # if share.disqus is true, provide your disqus shortname, the api key and the number of comments to display
-disqus_username: bernardopacheco
-disqus_api_key: o2szu05bLNqiXiRvqe2oFvIHYYVR24eVkQiGs5WHcj0VUnvF8GCqD9HQUZErwCe7
+disqus_username: hafidzme
+disqus_api_key: ob0FZe2fQrcJotg5aEETqfS3RiFylshDbRZ7FUjFQOPPVzEv2lHFeWGRRxUwMbNB 
 disqus_recent_comments_to_display: 5
 
 # google analytics ID
-google_analytics_id: UA-58186085-1
+google_analytics_id: UA-39105618-3
 
 markdown: kramdown
 highlighter: pygments
