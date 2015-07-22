@@ -5,22 +5,20 @@ permalink: /about/
 ---
 # About
 
-My name is Bernardo Pacheco. I'm a software engineer living and working at [Dot Legend][5] in Rio de Janeiro, Brazil.
+My name is Hafiz Nasruddin, working and living in [Putrajaya][1], Malaysia as a system administrator.
 
-I’ve attended the [Federal University of Rio de Janeiro (UFRJ)][1] for a bachelor's degree and a master's degree in Computer Science.
+I graduated from [Universiti Teknologi Malaysia][7] in Computer Science.
 
-Currently I am involved with the full-stack JavaScript developing web and mobile applications with technologies including HTML5, CSS, JavaScript, AngularJS, NodeJS and MongoDB. I’ve worked on different things already and I have experience in the .NET framework, C#, Entity Framework, ASP .NET MVC, SQL Server, Git and Mercurial. I use fish as my command line shell and my preferred editor is vim. 
-
-I have a great interest in cryptography. It is a fascinating area with a beautiful mathematics and with a history of amazing people.
-
-I like to share what I know. I appreciate who does the same.
+For now I administer several systems used in [Perbadanan Putrajaya][2]. I was exposed to the Open Source Software since 1999 and hope that one day it could be used more extensively in Perbadanan Putrajaya.
 
 ## Contact
 
-If you want to get in touch with me you can email me on ![](/assets/images/email.png) or find me on [GitHub][2], [Twitter][3] or [Google+][4].
+If you want to get in touch with me you can find me on [Facebook][6], [Twitter][4], [Google+][5] or [GitHub][3].
 
-[1]: http://www.ufrj.br/
-[2]: http://github.com/bernardopacheco
-[3]: http://twitter.com/BernardoPachec0
-[4]: https://plus.google.com/+BernardoPacheco0/posts
-[5]: http://www.dotlegend.net/
+[1]: http://www.putrajaya.gov.my/
+[2]: http://www.ppj.gov.my/
+[3]: http://github.com/apisznasdin
+[4]: http://twitter.com/apisznasdin
+[5]: https://plus.google.com/u/1/+HafidzNasruddin/posts
+[6]: https://www.facebook.com/hafidz.nasruddin
+[7]: http://www.utm.my/
