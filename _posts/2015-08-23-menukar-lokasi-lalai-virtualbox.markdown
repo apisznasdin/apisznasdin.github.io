@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Menukar lokasi lalai VirtualBox Machine"
+description: Bagaimana caranya untuk kita menukar lokasi lalai VirtualBox Machine.
+permalink: /menukar-lokasi-lalai-virtualbox
+---
+Sunting fail /Users/username/Library/VirtualBox/VirtualBox.xml
+
+Pada 
+''' <SystemProperties defaultMachineFolder="/Users/username/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" exclusiveHwVirt="false"/>
+Tukar defaultMachineFolder kepada
+''' <SystemProperties defaultMachineFolder="/Volumes/ExternelDrive/VirtualBox VMs" defaultHardDiskFormat="VDI" VRDEAuthLibrary="VBoxAuth" webServiceAuthLibrary="VBoxAuth" LogHistoryCount="3" exclusiveHwVirt="false"/>
