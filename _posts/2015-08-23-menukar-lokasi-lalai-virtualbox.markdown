@@ -4,7 +4,7 @@ title:  "Menukar lokasi lalai VirtualBox Machine"
 description: Bagaimana caranya untuk kita menukar lokasi lalai VirtualBox Machine.
 permalink: /menukar-lokasi-lalai-virtualbox
 ---
-Sunting fail <pre>/Users/username/Library/VirtualBox/VirtualBox.xml</pre>
+Sunting fail **`/Users/username/Library/VirtualBox/VirtualBox.xml`**
 
 Pada 
 {% highlight xml %}
