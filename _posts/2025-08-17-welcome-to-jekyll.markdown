@@ -8,14 +8,11 @@ categories: jekyll update
 Hi there 👋  
 This marks the reboot of my digital presence. I’m not entirely sure what I’ll be writing here yet, but I’m using this space to slowly polish back my interest in programming — something I’ve left behind for quite some time.
 
----
 
-### **Why Jekyll & GitHub Pages?**
+### Why Jekyll & GitHub Pages?
 I chose Jekyll because it’s simple, clean, and doesn’t need a database. GitHub Pages makes it easy to host the site for free, with version control built-in.
 
----
-
-### **How I Started**
+### How I Started
 1. Installed Jekyll:
    ```bash
    gem install jekyll bundler
@@ -38,9 +35,7 @@ I chose Jekyll because it’s simple, clean, and doesn’t need a database. GitH
 
 4. Enabled GitHub Pages in repo settings. Done!
 
----
-
-### **What’s Next**
+### What’s Next
 I’ll be customizing the layout with Material Design and writing about projects I’m involved in Putrajaya.
 
 Thanks for dropping by. Let’s see where this journey takes me — one byte at a time.
