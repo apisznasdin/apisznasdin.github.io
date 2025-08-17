@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m Hafidz Nasruddin — a System Administrator based in Putrajaya, currently working with Perbadanan Putrajaya on Smart City initiatives.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This blog is a reboot of my digital presence. I’m using it to document my journey back into programming, tech tinkering, and everything in between. I’ve always had a love for Linux, open source, and network security — and now I’m slowly reconnecting with those interests.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+*Jekyll & Bytes* is my space to share notes, ideas, and experiments. Nothing fancy, just clean thoughts and quiet bytes.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Thanks for dropping by.
