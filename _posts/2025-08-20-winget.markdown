@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Why I Like winget : A Minimalist's Package Manager"
+date:   2025-08-20 13:21:33 +0800
+categories: jekyll tools
+---
+
+As someone who’s spent time managing Linux servers and tinkering with macOS setups, I’ve always appreciated tools that are fast, clean, and don’t get in the way. `winget` on Windows 11 feels like that — a package manager that just works, macam `apt` kat Linux atau `brew` kat Mac.
+
+No need to buka browser, cari installer, next-next-finish. Just open terminal, type a few commands, and you're done. Minimal effort, maximum result.
+
+## 💻 Real-Life Use Case: Setting Up My Dev Environment
+
+Untuk blog ni — *Jekyll & Bytes* — aku nak setup dev environment yang consistent, tak kira guna desktop pejabat atau MacBook. Here's how I did it:
+
+### 🖥️ Windows 11 (Office Desktop)
+
+Guna `winget`, aku install semua tools yang aku perlukan:
+
+```bash
+winget install Git.Git
+winget install RubyInstallerTeam.RubyWithDevKit.3.4
+winget install Microsoft.VisualStudioCode
+```
+
+Nak check package available:
+
+```bash
+winget search ruby
+```
+
+Nak update semua apps:
+
+```bash
+winget upgrade --all
+```
+
+### 🍎 macOS (MacBook)
+
+Setup lebih kurang sama, cuma guna `brew`:
+
+```bash
+brew install git ruby
+gem install jekyll bundler
+```
+
+### 🧱 Setup Jekyll
+
+Lepas install Ruby, aku setup Jekyll macam ni:
+
+```bash
+gem install jekyll bundler
+jekyll new jekyll-bytes
+cd jekyll-bytes
+bundle install
+bundle exec jekyll serve
+```
+
+Blog akan run kat `http://localhost:4000`. Preview terus dari browser.
+
+### 🔗 Sync dengan GitHub
+
+Guna Git untuk push ke GitHub Pages:
+
+```bash
+git init
+git remote add origin https://github.com/apisznasdin/apisznasdin.github.io.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+Itu sahaja. Setup ringkas, tools ringan, dan semuanya jalan lancar.
