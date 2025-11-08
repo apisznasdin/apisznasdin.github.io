@@ -27,6 +27,8 @@ url: "https://apisznasdin.github.io" # the base hostname & protocol for your sit
 twitter_username: apisznasdin
 github_username:  apisznasdin
 
+google_analytics: G-6G04V3X1VW
+
 # Build settings
 theme: minima
 plugins:
